@@ -1,5 +1,5 @@
-Snatcoin integration/staging tree
-================================
+Snatcoin SCRYPT Cryptocurrency
+==============================
 
 http://www.snatcoin.com
 
