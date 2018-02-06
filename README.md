@@ -1,25 +1,26 @@
 Snatcoin integration/staging tree
 ================================
 
-http://www.snatcoin.org
+http://www.snatcoin.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Snatcoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2018 Snatcoin Developers
 
 What is Snatcoin?
 ----------------
 
 Snatcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - 1 minute block targets
+ - subsidy halves in 44k blocks (~1 month)
+ - ~80 billion total coins
 
 The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - 100,000 coins per block
+ - 60 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Snatcoin client sofware, see http://www.snatcoin.org.
+the Snatcoin client sofware, see http://www.snatcoin.com.
 
 License
 -------
