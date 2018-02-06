@@ -3,9 +3,9 @@ Snatcoin integration/staging tree
 
 http://www.snatcoin.com
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2018 Snatcoin Developers
+* Copyright (c) 2009-2014 Bitcoin Developers
+* Copyright (c) 2011-2014 Litecoin Developers
+* Copyright (c) 2018 Snatcoin Developers
 
 What is Snatcoin?
 ----------------
