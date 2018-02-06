@@ -1,0 +1,2 @@
+# snatcoinCrypto
+Snatcoin (Scrypt Coin)
