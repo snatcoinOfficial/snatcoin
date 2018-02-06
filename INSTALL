@@ -1,0 +1,9 @@
+Building Snatcoin
+
+See doc/readme-qt.rst for instructions on building Snatcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Snatcoin.
+
+See doc/build-*.txt for instructions on building snatcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Snatcoin.
