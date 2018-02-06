@@ -10,12 +10,12 @@ http://www.snatcoin.com
 What is Snatcoin?
 ----------------
 
-Snatcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+Snatcoin is a lite version of Litecoin using scrypt as a proof-of-work algorithm.
  - 1 minute block targets
  - subsidy halves in 44k blocks (~1 month)
  - ~80 billion total coins
 
-The rest is the same as Bitcoin.
+The rest is the same as Litecoin.
  - 100,000 coins per block
  - 60 blocks to retarget difficulty
 
