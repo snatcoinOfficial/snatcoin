@@ -1407,8 +1407,8 @@ Address: %4
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Адрес, на который будет выслан платёж (например Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to (e.g. ga4SXw6ymXXNLRSnLCEF6hjJLoxcDGcSu)</source>
+        <translation>Адрес, на который будет выслан платёж (например ga4SXw6ymXXNLRSnLCEF6hjJLoxcDGcSu)</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1448,7 +1448,7 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Snatcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a Snatcoin address (e.g. ga4SXw6ymXXNLRSnLCEF6hjJLoxcDGcSu)</source>
         <translation>Введите Snatcoin-адрес (например 1LA5FtQhnnWnkK6zjFfutR7Stiit4wKd63)</translation>
     </message>
 </context>
@@ -1471,8 +1471,8 @@ Address: %4
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Адрес, которым вы хотите подписать сообщение  (напр. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. ga4SXw6ymXXNLRSnLCEF6hjJLoxcDGcSu)</source>
+        <translation>Адрес, которым вы хотите подписать сообщение  (напр. ga4SXw6ymXXNLRSnLCEF6hjJLoxcDGcSu)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1544,8 +1544,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Адрес, которым было подписано сообщение (напр. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. ga4SXw6ymXXNLRSnLCEF6hjJLoxcDGcSu)</source>
+        <translation>Адрес, которым было подписано сообщение (напр. ga4SXw6ymXXNLRSnLCEF6hjJLoxcDGcSu)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -1565,8 +1565,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Snatcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введите адрес Snatcoin (напр. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Snatcoin address (e.g. ga4SXw6ymXXNLRSnLCEF6hjJLoxcDGcSu)</source>
+        <translation>Введите адрес Snatcoin (напр. ga4SXw6ymXXNLRSnLCEF6hjJLoxcDGcSu)</translation>
     </message>
     <message>
         <location line="-2"/>

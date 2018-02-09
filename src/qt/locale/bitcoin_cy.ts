@@ -290,7 +290,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+7"/>
         <location line="+48"/>
         <source>The supplied passphrases do not match.</source>
-        <translation>Dydy&apos;r cyfrinymadroddion a ddarparwyd ddim yn cyd-fynd â&apos;u gilydd.</translation>
+        <translation>Dydy&apos;r cyfrinymadroddion a ddarparwyd ddim yn cyd-fynd ??&apos;u gilydd.</translation>
     </message>
     <message>
         <location line="-37"/>
@@ -325,7 +325,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+280"/>
         <source>Synchronizing with network...</source>
-        <translation>Cysoni â&apos;r rhwydwaith...</translation>
+        <translation>Cysoni ??&apos;r rhwydwaith...</translation>
     </message>
     <message>
         <location line="-349"/>
@@ -1398,7 +1398,7 @@ Address: %4
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>The address to send the payment to (e.g. ga4SXw6ymXXNLRSnLCEF6hjJLoxcDGcSu)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1439,7 +1439,7 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Snatcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a Snatcoin address (e.g. ga4SXw6ymXXNLRSnLCEF6hjJLoxcDGcSu)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1462,7 +1462,7 @@ Address: %4
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>The address to sign the message with (e.g. ga4SXw6ymXXNLRSnLCEF6hjJLoxcDGcSu)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1535,7 +1535,7 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>The address the message was signed with (e.g. ga4SXw6ymXXNLRSnLCEF6hjJLoxcDGcSu)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1556,7 +1556,7 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Snatcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a Snatcoin address (e.g. ga4SXw6ymXXNLRSnLCEF6hjJLoxcDGcSu)</source>
         <translation type="unfinished"/>
     </message>
     <message>
