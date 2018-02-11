@@ -1089,9 +1089,11 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
 {
     int64 nSubsidy = 100000 * COIN;
 
-    // Subsidy is cut in half every 44000 blocks, which will occur approximately every 4 years
-    nSubsidy >>= (nHeight / 44000); // Snatcoin: 840k blocks in ~4 years
+    // Subsidy is cut in half every 44000 blocks, which will occur approximately every ~30 days
+    nSubsidy >>= (nHeight / 44000); // Snatcoin: 44k blocks in ~30 days
 
+    if(nHeight > 308000){ nSubsidy = 1000 * COIN; }
+    
     return nSubsidy + nFees;
 }
 
