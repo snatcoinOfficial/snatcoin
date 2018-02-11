@@ -17,7 +17,7 @@ Snatcoin is a lite version of Litecoin using scrypt as a proof-of-work algorithm
 
 The rest is the same as Litecoin.
  - 100,000 coins per block
- - 60 blocks to retarget difficulty
+ - 60 blocks to difficulty retarget
 
 For more information, as well as an immediately useable, binary version of
 the Snatcoin client sofware, see http://www.snatcoin.com.
