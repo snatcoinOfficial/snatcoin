@@ -5,9 +5,9 @@ SetCompressor /SOLID lzma
 
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
-!define VERSION 0.8.7.4
-!define COMPANY "Snatcoin project"
-!define URL http://www.snatcoin.org/
+!define VERSION 1.0.1.0
+!define COMPANY "Snatcoin"
+!define URL http://www.snatcoin.com/
 
 # MUI Symbol Definitions
 !define MUI_ICON "../share/pixmaps/bitcoin.ico"
