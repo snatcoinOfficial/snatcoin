@@ -1,7 +1,7 @@
 Snatcoin SCRYPT Cryptocurrency
 ==============================
 
-http://www.snatcoin.com
+https://www.snatcoin.com
 
 
 What is Snatcoin?
