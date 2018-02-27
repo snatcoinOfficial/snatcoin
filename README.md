@@ -1,7 +1,7 @@
 Snatcoin SCRYPT Cryptocurrency
 ==============================
 
-https://www.snatcoin.com
+https://snatcoin.com
 
 
 What is Snatcoin?
@@ -17,7 +17,7 @@ Snatcoin is a lite version of Litecoin using Scrypt as a proof-of-work algorithm
  - The rest is the same as Litecoin.
 
 For more information, as well as an immediately useable, binary version of
-the Snatcoin client sofware, see http://www.snatcoin.com.
+the Snatcoin client sofware, see https://snatcoin.com.
 
 License
 -------
