@@ -3,21 +3,18 @@ Snatcoin SCRYPT Cryptocurrency
 
 http://www.snatcoin.com
 
-* Copyright (c) 2009-2014 Bitcoin Developers
-* Copyright (c) 2011-2014 Litecoin Developers
-* Copyright (c) 2018 Snatcoin Developers
 
 What is Snatcoin?
 ----------------
 
-Snatcoin is a lite version of Litecoin using scrypt as a proof-of-work algorithm.
+Snatcoin is a lite version of Litecoin using Scrypt as a proof-of-work algorithm.
+
  - 1 minute block targets
  - subsidy halves in 44k blocks (~1 month)
  - ~80 billion total coins
-
-The rest is the same as Litecoin.
  - 100,000 coins per block
  - 60 blocks to difficulty retarget
+ - The rest is the same as Litecoin.
 
 For more information, as well as an immediately useable, binary version of
 the Snatcoin client sofware, see http://www.snatcoin.com.
@@ -72,3 +69,7 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./snatcoin-qt_test
 
+
+* Copyright (c) 2009-2014 Bitcoin Developers
+* Copyright (c) 2011-2014 Litecoin Developers
+* Copyright (c) 2018 Snatcoin Developers
