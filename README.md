@@ -9,6 +9,7 @@ What is Snatcoin?
 
 Snatcoin used to be a lite version of Litecoin using Scrypt as a proof-of-work algorithm.
 Snatcoin has since been abandoned, as of roughly May 2018.
+This GitHub remains for documentation purposes of the Snatcoin project.
 
  - 1 minute block targets
  - subsidy halves in 44k blocks (~1 month)
