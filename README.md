@@ -1,15 +1,14 @@
 Snatcoin SCRYPT Cryptocurrency
 ==============================
 
-https://snatcoin.com (now offline, project abandoned)
+https://snatcoin.org 
 
 
 What is Snatcoin?
 ----------------
 
-Snatcoin used to be a lite version of Litecoin using Scrypt as a proof-of-work algorithm.
-Snatcoin has since been abandoned, as of roughly May 2018.
-This GitHub remains for documentation purposes of the Snatcoin project.
+Snatcoin is a lite version of Litecoin using Scrypt as a proof-of-work algorithm.
+This GitHub is for documentation purposes of the Snatcoin project.
 
  - 1 minute block targets
  - subsidy halves in 44k blocks (~1 month)
@@ -19,7 +18,7 @@ This GitHub remains for documentation purposes of the Snatcoin project.
  - The rest is the same as Litecoin.
 
 For more information, as well as an immediately useable, binary version of
-the Snatcoin client sofware, see https://snatcoin.com.
+the Snatcoin client sofware, see https://snatcoin.org.
 
 License
 -------
@@ -74,4 +73,4 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 
 * Copyright (c) 2009-2014 Bitcoin Developers
 * Copyright (c) 2011-2014 Litecoin Developers
-* Copyright (c) 2018 Snatcoin Developers
+* Copyright (c) 2018-2021 Snatcoin Developers
