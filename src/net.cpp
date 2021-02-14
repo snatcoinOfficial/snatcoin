@@ -1173,8 +1173,8 @@ void MapPort(bool)
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
-    {"aws.snatcoin.com", "18.218.135.144"},
-    {"snatcoin.com/blockchain", "159.65.182.125"},
+    {"techrafta.com", "206.189.81.119"},
+    {"snatcoin.org", "188.166.222.234"},
     {NULL, NULL}
 };
 
