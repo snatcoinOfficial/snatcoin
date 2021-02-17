@@ -19,7 +19,7 @@ const std::string CLIENT_NAME("Snatcoin Core Client");
 #define GIT_ARCHIVE 1
 #ifdef GIT_ARCHIVE
 #    define GIT_COMMIT_ID ""
-#    define GIT_COMMIT_DATE "Mon, 12 Feb 2018 1:42:27 +1000"
+#    define GIT_COMMIT_DATE "Wed, 17 Feb 2021 6:20:27 +1000"
 #endif
 
 #define BUILD_DESC_FROM_COMMIT(maj,min,rev,build,commit) \
