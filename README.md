@@ -10,11 +10,11 @@ What is Snatcoin?
 Snatcoin is a lite version of Litecoin using Scrypt as a proof-of-work algorithm.
 This GitHub is for documentation purposes of the Snatcoin project.
 
- - 1 minute block targets
- - subsidy halves in 44k blocks (~1 month)
+ - 60 second block target
+ - subsidy halves in 44k blocks
  - ~80 billion total coins
  - 100,000 coins per block
- - 60 blocks to difficulty retarget
+ - Retarget of difficulty on every block
  - The rest is the same as Litecoin.
 
 For more information, as well as an immediately useable, binary version of
